@@ -132,5 +132,5 @@ Validated on multiple hate speech datasets with class imbalance handling.
 
 ## Authors
 
-- Chethana TV
+- Chethana T V
 - Ananya Manoharan  
