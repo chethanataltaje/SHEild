@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# ML Models
+*.cbm
+*.joblib
+sbert_model/
+
+# Large Files
+*.mp4
+
+# Env
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
